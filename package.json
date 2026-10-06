@@ -30,7 +30,7 @@
   "author": "Paolo Trivi",
   "license": "MIT",
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.0.4",
+    "@modelcontextprotocol/sdk": "^1.32.1",
     "axios": "^1.7.9",
     "dotenv": "^16.4.7"
   },
